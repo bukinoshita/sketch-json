@@ -1,0 +1,26 @@
+{
+  "name": "sketch-json",
+  "version": "0.0.0",
+  "description": "Transform sketch files to json and json to sketch files",
+  "main": "index.js",
+  "repository": "git@github.com:bukinoshita/sketch-json.git",
+  "author": "Bu Kinoshita <bukinoshita@gmail.com>",
+  "license": "MIT",
+  "keywords": ["sketch", "git", "github", "versioning", "json", "design"],
+  "scripts": {
+    "test": "xo"
+  },
+  "dependencies": {
+    "decompress": "^4.2.0",
+    "fs-extra": "^4.0.1",
+    "globby": "^6.1.0"
+  },
+  "devDependencies": {
+    "bundlesize": "^0.13.2",
+    "eslint-config-prettier": "^2.3.0",
+    "xo": "^0.18.2"
+  },
+  "xo": {
+    "extends": ["prettier"]
+  }
+}
