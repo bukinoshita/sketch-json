@@ -12,6 +12,11 @@ Different from [sketch2json](https://github.com/xaviervia/sketch2json), with `sk
 The idea of this libraries is to prepare json files to be pushed/pull to github/gitlab/etc. Version control for designers!
 
 
+## Versioning design
+
+Check [here](https://github.com/bukinoshita/sketch-json/commit/2b816ff85e75a733b45e3b514bb2626b4637cdf8)
+
+
 ## Install
 
 ```bash
