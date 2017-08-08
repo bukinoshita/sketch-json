@@ -49,7 +49,7 @@ Transform json files to Sketch
 
 ## Related
 
-- [git-sketch](https://github.com/bukinoshita/git-sketch)
+- [git-sketch](https://github.com/bukinoshita/git-sketch) — Versioning design with ease
 
 
 ## License
