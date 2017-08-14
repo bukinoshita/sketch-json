@@ -14,7 +14,10 @@ The idea of this libraries is to prepare json files to be pushed/pull to github/
 
 ## Versioning design
 
-Check [here](https://github.com/bukinoshita/sketch-json/commit/2b816ff85e75a733b45e3b514bb2626b4637cdf8)
+<img src="https://github.com/bukinoshita/sketch-json/blob/master/example/sketch-json.gif" />
+
+Check versioning [here](https://github.com/bukinoshita/sketch-json/commit/2b816ff85e75a733b45e3b514bb2626b4637cdf8)<br/>
+Check `terminal-sketch` example [here](https://github.com/bukinoshita/terminal-sketch)
 
 
 ## Install
