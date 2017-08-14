@@ -14,11 +14,7 @@ The idea of this libraries is to prepare json files to be pushed/pull to github/
 
 ## Versioning design
 
-<img src="https://github.com/bukinoshita/sketch-json/blob/master/example/sketch-json.gif" />
-
-Check versioning [here](https://github.com/bukinoshita/sketch-json/commit/2b816ff85e75a733b45e3b514bb2626b4637cdf8)<br/>
-Check `terminal-sketch` example [here](https://github.com/bukinoshita/terminal-sketch)
-
+<img src="https://github.com/bukinoshita/smiley-sketch/blob/master/smile-sketch.gif" width="500"/>
 
 ## Install
 
@@ -58,6 +54,8 @@ Transform json files to Sketch
 ## Related
 
 - [git-sketch](https://github.com/bukinoshita/git-sketch) — Versioning design with ease
+- [smiley-sketch](https://github.com/bukinoshita/smiley-sketch) — Smiley sketch
+- [terminal-sketch](https://github.com/bukinoshita/terminal-sketch) — Terminal sketch
 
 
 ## License
