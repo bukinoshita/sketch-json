@@ -3,19 +3,6 @@
 > Transform sketch files to json and json to sketch files
 
 
-## How it works
-
-Different from [sketch2json](https://github.com/xaviervia/sketch2json), with `sketch-json` you can transform `json` to `sketch` and `sketch` to `json`.
-
-`sketch-json` will generate the `json` files by zipping the `sketch` file and decompressing it. By doing that a [sketch folder will be generated with all json files](https://github.com/bukinoshita/sketch-json/tree/master/example/sketch).
-
-The idea of this libraries is to prepare json files to be pushed/pull to github/gitlab/etc. Version control for designers!
-
-
-## Versioning design
-
-<img src="https://github.com/bukinoshita/smiley-sketch/blob/master/smile-sketch.gif" width="500"/>
-
 ## Install
 
 ```bash
@@ -34,6 +21,20 @@ sketchJson.toJson().then(() => console.log('Done!'))
 sketchJson.toSketch().then(() => console.log('Done!'))
 // => Done!
 ```
+
+
+## How it works
+
+Different from [sketch2json](https://github.com/xaviervia/sketch2json), with `sketch-json` you can transform `json` to `sketch` and `sketch` to `json`.
+
+`sketch-json` will generate the `json` files by zipping the `sketch` file and decompressing it. By doing that a [sketch folder will be generated with all json files](https://github.com/bukinoshita/sketch-json/tree/master/example/sketch).
+
+The idea of this libraries is to prepare json files to be pushed/pull to github/gitlab/etc. Version control for designers!
+
+
+## Versioning design
+
+<img src="https://github.com/bukinoshita/smiley-sketch/blob/master/smile-sketch.gif" width="500"/>
 
 
 ## API
