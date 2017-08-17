@@ -55,6 +55,7 @@ Transform json files to Sketch
 ## Related
 
 - [git-sketch](https://github.com/bukinoshita/git-sketch) — Versioning design with ease
+- [sketch-json-cli](https://github.com/bukinoshita/sketch-json-cli) — CLI for this module
 - [smiley-sketch](https://github.com/bukinoshita/smiley-sketch) — Smiley sketch
 - [terminal-sketch](https://github.com/bukinoshita/terminal-sketch) — Terminal sketch
 
