@@ -1,6 +1,6 @@
 {
   "name": "sketch-json",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Transform sketch files to json and json to sketch files",
   "main": "index.js",
   "repository": "git@github.com:bukinoshita/sketch-json.git",
