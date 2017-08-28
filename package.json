@@ -6,16 +6,9 @@
   "repository": "git@github.com:bukinoshita/sketch-json.git",
   "author": "Bu Kinoshita <bukinoshita@gmail.com>",
   "license": "MIT",
-  "keywords": [
-    "sketch",
-    "git",
-    "github",
-    "versioning",
-    "json",
-    "design"
-  ],
+  "keywords": ["sketch", "git", "github", "versioning", "json", "design"],
   "scripts": {
-    "test": "xo"
+    "test": "xo --quiet"
   },
   "dependencies": {
     "decompress": "^4.2.0",
@@ -30,8 +23,6 @@
     "xo": "^0.18.2"
   },
   "xo": {
-    "extends": [
-      "prettier"
-    ]
+    "extends": ["prettier"]
   }
 }
