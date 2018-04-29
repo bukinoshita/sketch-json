@@ -2,13 +2,11 @@
 
 > Transform sketch files to json and json to sketch files
 
-
 ## Install
 
 ```bash
 $ yarn add sketch-json
 ```
-
 
 ## Usage
 
@@ -22,20 +20,17 @@ sketchJson.toSketch().then(() => console.log('Done!'))
 // => Done!
 ```
 
-
 ## How it works
 
 Different from [sketch2json](https://github.com/xaviervia/sketch2json), with `sketch-json` you can transform `json` to `sketch` and `sketch` to `json`.
 
-`sketch-json` will generate the `json` files by zipping the `sketch` file and decompressing it. By doing that a [sketch folder will be generated with all json files](https://github.com/bukinoshita/sketch-json/tree/master/example/sketch).
+`sketch-json` will generate the `json` files by zipping the `sketch` file and decompressing it. By doing that a sketch folder will be generated with all json files
 
 The idea of this libraries is to prepare json files to be pushed/pull to github/gitlab/etc. Version control for designers!
-
 
 ## Versioning design
 
 <img src="https://github.com/bukinoshita/smiley-sketch/blob/master/smile-sketch.gif" width="500"/>
-
 
 ## API
 
@@ -51,14 +46,12 @@ Transform Sketch files to json
 Returns a `promise`<br/>
 Transform json files to Sketch
 
-
 ## Related
 
-- [git-sketch](https://github.com/bukinoshita/git-sketch) — Versioning design with ease
-- [sketch-json-cli](https://github.com/bukinoshita/sketch-json-cli) — CLI for this module
-- [smiley-sketch](https://github.com/bukinoshita/smiley-sketch) — Smiley sketch
-- [terminal-sketch](https://github.com/bukinoshita/terminal-sketch) — Terminal sketch
-
+* [git-sketch](https://github.com/bukinoshita/git-sketch) — Versioning design with ease
+* [sketch-json-cli](https://github.com/bukinoshita/sketch-json-cli) — CLI for this module
+* [smiley-sketch](https://github.com/bukinoshita/smiley-sketch) — Smiley sketch
+* [terminal-sketch](https://github.com/bukinoshita/terminal-sketch) — Terminal sketch
 
 ## License
 
