@@ -27,7 +27,7 @@
   },
   "devDependencies": {
     "bundlesize": "0.13.2",
-    "eslint-config-prettier": "2.3.0",
+    "eslint-config-prettier": "2.10.0",
     "xo": "0.18.2"
   },
   "xo": {
