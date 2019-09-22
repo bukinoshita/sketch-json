@@ -26,7 +26,7 @@
     "json-beautify": "^1.0.1"
   },
   "devDependencies": {
-    "bundlesize": "0.13.2",
+    "bundlesize": "0.18.0",
     "eslint-config-prettier": "2.10.0",
     "xo": "0.18.2"
   },
