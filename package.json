@@ -26,9 +26,9 @@
     "json-beautify": "^1.0.1"
   },
   "devDependencies": {
-    "bundlesize": "^0.13.2",
-    "eslint-config-prettier": "^2.3.0",
-    "xo": "^0.18.2"
+    "bundlesize": "0.13.2",
+    "eslint-config-prettier": "2.3.0",
+    "xo": "0.18.2"
   },
   "xo": {
     "extends": [

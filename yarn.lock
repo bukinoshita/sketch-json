@@ -220,7 +220,7 @@ builtin-modules@^1.0.0, builtin-modules@^1.1.1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/builtin-modules/-/builtin-modules-1.1.1.tgz#270f076c5a72c02f5b65a47df94c5fe3a278892f"
 
-bundlesize@^0.13.2:
+bundlesize@0.13.2:
   version "0.13.2"
   resolved "https://registry.yarnpkg.com/bundlesize/-/bundlesize-0.13.2.tgz#3a8aa61aa9f6d54f63321e2dfc7aa7716f91e73f"
   dependencies:
@@ -660,7 +660,7 @@ escope@^3.6.0:
     esrecurse "^4.1.0"
     estraverse "^4.1.1"
 
-eslint-config-prettier@^2.3.0:
+eslint-config-prettier@2.3.0:
   version "2.3.0"
   resolved "https://registry.yarnpkg.com/eslint-config-prettier/-/eslint-config-prettier-2.3.0.tgz#b75b1eabea0c8b97b34403647ee25db349b9d8a0"
   dependencies:
@@ -2311,7 +2311,7 @@ xo-init@^0.5.0:
     the-argv "^1.0.0"
     write-pkg "^2.0.0"
 
-xo@^0.18.2:
+xo@0.18.2:
   version "0.18.2"
   resolved "https://registry.yarnpkg.com/xo/-/xo-0.18.2.tgz#92a42eb02a4fb149dfea5518021914f5aac84ff0"
   dependencies:
